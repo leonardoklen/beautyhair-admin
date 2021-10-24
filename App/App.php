@@ -24,7 +24,7 @@ class App
         define('TITLE', "Salão de Beleza");
         define('DB_HOST', "localhost");
         define('DB_USER', "milenior_salao_de_beleza");
-        define('DB_PASSWORD', "Le@nard@203");
+        define('DB_PASSWORD', "senha123");
         define('DB_NAME', "milenior_salao_de_beleza");
         define('DB_DRIVER', "mysql");
         
